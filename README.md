@@ -20,4 +20,4 @@ Like I said, I did a lot of research. While I was doing this research, I came ac
 <h6>footnote</h6>
 English is not the main language. I hope I can explain myself.
 
-#warthunder#
+#warthunder
