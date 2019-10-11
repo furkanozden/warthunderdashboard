@@ -1,2 +1,1 @@
-# warthunderdashboard
-War Thunder SimHub Dashboard FIP Gauges
+#War Thunder SimHub Dashboard FIP Gauges#
