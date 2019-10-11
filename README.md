@@ -4,6 +4,8 @@ As a result of my long research, I couldn't find any SimHub panels for War Thund
 
 <i>I tried to do the best in visuality and some codes. It is up to the community to fill the remaining gaps (:</i>
 
+<center><a href="https://github.com/furkanozden/warthunderdashboard/raw/master/war_thunder_dashboard.simhubdash">Download</a></center>
+
 <h2>Screenshots</h2>
 
 <img src="https://raw.githubusercontent.com/furkanozden/warthunderdashboard/master/1.png" />
