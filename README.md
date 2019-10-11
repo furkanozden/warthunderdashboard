@@ -1,10 +1,10 @@
 <h1>War Thunder SimHub Dashboard FIP Gauges</h1>
 
-As a result of my long research, I couldn't find any SimHub panels for War Thunder. So I made one myself. But I don't know why, some planes show some values, some don't. I tried to do as much as I could. I guess some information can be pulled from localhost:8111 using javascript. I couldn't do it because I wasn't an expert on JS.
+As a result of my long research, I couldn't find any <b>SimHub panels</b> for War Thunder. So I made one myself. But I don't know why, some planes show some values, some don't. I tried to do as much as I could. I guess some information can be pulled from localhost:8111 using javascript. I couldn't do it because I wasn't an expert on JS.
 
 <i>I tried to do the best in visuality and some codes. It is up to the community to fill the remaining gaps (:</i>
 
-<span style="text-align:center"><h2><a href="https://github.com/furkanozden/warthunderdashboard/raw/master/war_thunder_dashboard.simhubdash">Download</a></h2></span>
+<u><b><a href="https://github.com/furkanozden/warthunderdashboard/raw/master/war_thunder_dashboard.simhubdash">Download</a></b></u>
 
 <h2>Screenshots</h2>
 
