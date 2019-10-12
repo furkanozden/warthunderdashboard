@@ -12,9 +12,11 @@ As a result of my long research, I couldn't find any <b>SimHub panels</b> for Wa
 <img src="https://raw.githubusercontent.com/furkanozden/warthunderdashboard/master/2.png" />
 
 <h3>Some Links</h3>
-<a href="https://www.furkanozden.net/">My Personel Blog</a>
-<a href="https://warthunder.com/en/community/userinfo/?nick=SonSamsunlu">My War Thunder Profile</a>
-<a href="https://steamcommunity.com/id/sonsamsunlu/">My Steam Profile</a>
+<ul>
+  <li><a href="https://www.furkanozden.net/">My Personel Blog</a></li>
+  <li><a href="https://warthunder.com/en/community/userinfo/?nick=SonSamsunlu">My War Thunder Profile</a></li>
+  <li><a href="https://steamcommunity.com/id/sonsamsunlu/">My Steam Profile</a></li>
+</ul>
 
 <h6>Credits</h6>
 
