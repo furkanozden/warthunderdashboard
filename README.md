@@ -11,11 +11,13 @@ As a result of my long research, I couldn't find any <b>SimHub panels</b> for Wa
 <img src="https://raw.githubusercontent.com/furkanozden/warthunderdashboard/master/1.png" />
 <img src="https://raw.githubusercontent.com/furkanozden/warthunderdashboard/master/2.png" />
 
-<h3>Credits</h3>
+<h3>Some Links</h3>
+<a href="https://www.furkanozden.net/">My Personel Blog</a>
+<a href="https://warthunder.com/en/community/userinfo/?nick=SonSamsunlu">My War Thunder Profile</a>
+<a href="https://steamcommunity.com/id/sonsamsunlu/">My Steam Profile</a>
+
+<h6>Credits</h6>
 
 Like I said, I did a lot of research. While I was doing this research, I came across a project by Sébastien Matton. The indicators were beautifully designed. I used these visuals to make the panel. To browse his project, follow the link below:
 
 <a href="https://github.com/sebmatton/jQuery-Flight-Indicators">Flight Indicators jQuery plugin</a>
-
-<h6>footnote</h6>
-English is not the main language. I hope I can explain myself.
