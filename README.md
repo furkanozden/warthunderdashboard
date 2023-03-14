@@ -14,7 +14,7 @@ As a result of my long research, I couldn't find any <b>SimHub panels</b> for Wa
 <h3>Some Links</h3>
 <ul>
   <li><a href="https://www.furkanozden.net/">My Personel Blog</a></li>
-  <li><a href="https://warthunder.com/en/community/userinfo/?nick=SonSamsunlu">My War Thunder Profile</a></li>
+  <li><a href="https://warthunder.com/en/community/userinfo/?nick=AntiMekanize">My War Thunder Profile</a></li>
   <li><a href="https://steamcommunity.com/id/sonsamsunlu/">My Steam Profile</a></li>
 </ul>
 
